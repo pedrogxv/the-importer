@@ -1,3 +1,3 @@
 <?php
-        echo "edajs";
+        echo "dimqf";
 ?>
