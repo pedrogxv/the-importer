@@ -1,5 +1,5 @@
 <?php
         echo "muudi";
         echo "lgduu";
-        echo "qtnas";
+        echo "xnyan";
 ?>
