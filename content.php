@@ -28,5 +28,4 @@
         echo "qdarf";
         echo "uwlgb";
         echo "jdmvw";
-        echo "lqoix";
 ?>
