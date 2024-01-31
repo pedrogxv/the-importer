@@ -68,5 +68,4 @@
         echo "jnupw";
         echo "sjqus";
         echo "pdatp";
-        echo "cjibn";
 ?>
